@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runner version="1.0.0">
+<category name="カテゴリーなし">
+<launchConfiguration bookmark="false" name="Switch文"/>
+<launchConfiguration bookmark="false" name="for文基礎"/>
+<launchConfiguration bookmark="false" name="for文応用"/>
+<launchConfiguration bookmark="false" name="while文基礎"/>
+<launchConfiguration bookmark="false" name="多次元配列"/>
+<launchConfiguration bookmark="false" name="配列"/>
+</category>
+</runner>

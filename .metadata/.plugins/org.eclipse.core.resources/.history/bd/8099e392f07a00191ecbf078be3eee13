@@ -1,0 +1,25 @@
+package for文;
+
+public class for文基礎 {
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+
+for(int i =0;i<3;i++){
+	System.out.println(i);
+}
+
+for(int i1=1;i1<10;i1++){
+	System.out.println(i1);
+}
+
+for(int i2=3;i2<10;i2++){
+	System.out.println(i2);
+}
+
+for(int i3=3;i3<=10;i3++){
+	System.out.println(i3);
+}
+	}
+
+}
