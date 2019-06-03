@@ -1,0 +1,8 @@
+
+public class Capsule {
+
+	public static void main(String[]args){
+		Person taro =new Person("ŽR“c‘¾˜Y",20);
+		System.out.println(taro.name);
+	}
+}
